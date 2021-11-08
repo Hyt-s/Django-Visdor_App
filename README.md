@@ -20,7 +20,13 @@
 <!-- OVERVIEW -->
 ## Demo Link
 
-http://muhtar.pythonanywhere.com/
+<div>
+  <p> For viewing the app click the
+    <a href="http://muhtar.pythonanywhere.com/">
+      link
+    </a> 
+  </p>
+</div>
 
 ### Built With
 
